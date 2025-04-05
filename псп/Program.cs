@@ -33,6 +33,9 @@ class Program
     /// </summary>
     /// <param name="binary"></param>
     /// <returns></returns>
+    /// 
+    //////////////////////////////////////////////////
+    //////////////////////
 
     static string EncodeNRZI(string binary)
     {
