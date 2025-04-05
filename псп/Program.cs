@@ -28,14 +28,7 @@ class Program
     {
         return binary; // NRZ просто передает битовые значения
     }
-    /// <summary>
-    /// //
-    /// </summary>
-    /// <param name="binary"></param>
-    /// <returns></returns>
-    /// 
-    //////////////////////////////////////////////////
-    //////////////////////
+
 
     static string EncodeNRZI(string binary)
     {
